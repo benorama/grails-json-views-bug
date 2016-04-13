@@ -1,0 +1,23 @@
+# Gradle
+
+build/
+gradle/
+gradlew
+gradlew.bat
+.gradle/
+
+
+# Eclipse
+
+.project
+.metadata
+.classpath
+.settings/
+
+# IDEA
+
+*.iml
+*.ipr
+*.iws
+.idea/
+.asscache
